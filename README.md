@@ -1,2 +1,2 @@
 # batch-tools
-Python tools for batch processing of scientific simulations
+Python tools for batch processing scientific simulations
