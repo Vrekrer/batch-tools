@@ -1,7 +1,7 @@
 # batch-tools
 Python tools for batch processing scientific simulations
 
-Nothing is done yet.
+Nothing is done yet. (HELP NEEDED!!)
 
 The first thing I will implement is this:
 
